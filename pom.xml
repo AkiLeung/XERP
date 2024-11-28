@@ -20,7 +20,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <!-- 系統架構包 -->
         <!-- j2ee 基礎包 -->
-        <junit.version>4.11</junit.version>
+        <junit.version>4.13.1</junit.version>
         <javaee.version>5</javaee.version>
         <javassist.version>3.17.1-GA</javassist.version>
         <javax.servlet.jsp>2.0</javax.servlet.jsp>
